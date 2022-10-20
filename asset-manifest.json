@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/admin-app/static/css/main.79161074.css",
+    "main.js": "/admin-app/static/js/main.238e0b5f.js",
+    "index.html": "/admin-app/index.html",
+    "main.79161074.css.map": "/admin-app/static/css/main.79161074.css.map",
+    "main.238e0b5f.js.map": "/admin-app/static/js/main.238e0b5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79161074.css",
+    "static/js/main.238e0b5f.js"
+  ]
+}
