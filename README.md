@@ -1,6 +1,6 @@
 ## `deploying on git pages`
 
-npm run deploy
+npm run deploy\
 git push -u origin master
 
 Runs the app in the development mode.\
