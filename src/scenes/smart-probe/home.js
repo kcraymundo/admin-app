@@ -67,7 +67,7 @@ const Home = () => {
                 gridTemplateColumns="repeat(12, 1fr)"
             >
                 <Card sx={{
-                    height: "300px",
+                    height: "320px",
                     textAlign: "center",
                     padding:"20px 5px"
                 }}>
@@ -92,7 +92,7 @@ empowerment and skills enhancements.
                 padding="60px 20px"
             >
                 <Card sx={{
-                    height: "300px",
+                    height: "320px",
                     textAlign: "center",
                     padding: "20px 5px"
                 }}>
@@ -115,7 +115,7 @@ quality and employee engagement.
                 gridTemplateColumns="repeat(12, 1fr)"
             >
                 <Card sx={{
-                    height: "300px",
+                    height: "320px",
                     textAlign: "center",
                     padding: "20px 5px"
 
