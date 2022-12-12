@@ -55,7 +55,7 @@ const Home = () => {
                 <img
                     alt="smart-probe-log"
                     width="100%"
-                    height="250px"
+                    height="280px"
                     src={process.env.PUBLIC_URL + "/assets/smartprobe.png"}
                 />
             </Box>
@@ -63,7 +63,7 @@ const Home = () => {
          
             <Box
                 gridColumn="span 4"
-                padding="50px 20px"
+                padding="60px 20px"
                 gridTemplateColumns="repeat(12, 1fr)"
             >
                 <Card sx={{
@@ -89,7 +89,7 @@ empowerment and skills enhancements.
             <Box
                 gridColumn="span 4"
                 gridTemplateColumns="repeat(12, 1fr)"
-                padding="50px 20px"
+                padding="60px 20px"
             >
                 <Card sx={{
                     height: "300px",
@@ -111,7 +111,7 @@ quality and employee engagement.
             </Box>
             <Box
                 gridColumn="span 4"
-                padding="50px 20px"
+                padding="60px 20px"
                 gridTemplateColumns="repeat(12, 1fr)"
             >
                 <Card sx={{
@@ -126,10 +126,8 @@ quality and employee engagement.
                         OUR CORE PRINCIPLES (CP9)
                         </Typography>
                         <Typography variant="body2" color="text.secondary">
-                        We are dedicated to provide our customers with superior products 
-and services with optimum quality and efficacy.
-We promote growth and development of our employees through 
-empowerment and skills enhancements.
+                        Quality is Non-Negotiable, Customer Delight, Employee Engagement, Sense of Ownership, Integrity is Indispensable, We work as One, Communication is Vital, We Continually Improve, Suppliers as our Growth Partners
+
 
                         </Typography>
                     </CardContent>
